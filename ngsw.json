@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1700759920366,
+  "timestamp": 1700774659649,
   "index": "https://reinaldoagf.github.io/flappy-bird/index.html",
   "assetGroups": [
     {
@@ -13,11 +13,11 @@
       "urls": [
         "https://reinaldoagf.github.io/flappy-bird/favicon.ico",
         "https://reinaldoagf.github.io/flappy-bird/index.html",
-        "https://reinaldoagf.github.io/flappy-bird/main.b80991db3513a551.js",
+        "https://reinaldoagf.github.io/flappy-bird/main.88a510c8194298a9.js",
         "https://reinaldoagf.github.io/flappy-bird/manifest.webmanifest",
         "https://reinaldoagf.github.io/flappy-bird/polyfills.bee6799d597c6fef.js",
         "https://reinaldoagf.github.io/flappy-bird/runtime.40dc6dc47b8d87d6.js",
-        "https://reinaldoagf.github.io/flappy-bird/styles.ef46db3751d8e999.css"
+        "https://reinaldoagf.github.io/flappy-bird/styles.038c72120027e3ab.css"
       ],
       "patterns": []
     },
@@ -36,7 +36,13 @@
         "https://reinaldoagf.github.io/flappy-bird/assets/icons/icon-384x384.png",
         "https://reinaldoagf.github.io/flappy-bird/assets/icons/icon-512x512.png",
         "https://reinaldoagf.github.io/flappy-bird/assets/icons/icon-72x72.png",
-        "https://reinaldoagf.github.io/flappy-bird/assets/icons/icon-96x96.png"
+        "https://reinaldoagf.github.io/flappy-bird/assets/icons/icon-96x96.png",
+        "https://reinaldoagf.github.io/flappy-bird/assets/img/bird.png",
+        "https://reinaldoagf.github.io/flappy-bird/assets/img/floor.png",
+        "https://reinaldoagf.github.io/flappy-bird/assets/img/fondo.png",
+        "https://reinaldoagf.github.io/flappy-bird/assets/img/pipelines.png",
+        "https://reinaldoagf.github.io/flappy-bird/assets/img/tuberia-bottom.png",
+        "https://reinaldoagf.github.io/flappy-bird/assets/img/tuberia-top.png"
       ],
       "patterns": []
     }
@@ -51,13 +57,19 @@
     "https://reinaldoagf.github.io/flappy-bird/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "https://reinaldoagf.github.io/flappy-bird/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "https://reinaldoagf.github.io/flappy-bird/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "https://reinaldoagf.github.io/flappy-bird/assets/img/bird.png": "c0239fef2fc391aa244246067e2d81e542273ae6",
+    "https://reinaldoagf.github.io/flappy-bird/assets/img/floor.png": "638aa37ef0859f2b7023bd285c6c2b13a4838c4b",
+    "https://reinaldoagf.github.io/flappy-bird/assets/img/fondo.png": "f0a5fd159c588c06a9c8c87ffdfcb666a79b559c",
+    "https://reinaldoagf.github.io/flappy-bird/assets/img/pipelines.png": "170ae75be5b0e05f3d9db9486322ce2dd09ca87f",
+    "https://reinaldoagf.github.io/flappy-bird/assets/img/tuberia-bottom.png": "287e6c8114692a4eae809df8708d5956877c3f4c",
+    "https://reinaldoagf.github.io/flappy-bird/assets/img/tuberia-top.png": "c807d6db938c2ad1dca48eb03b5da62c0ccf6c52",
     "https://reinaldoagf.github.io/flappy-bird/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://reinaldoagf.github.io/flappy-bird/index.html": "9dc22219293adaca746ef0a478b1b8e2e98c107a",
-    "https://reinaldoagf.github.io/flappy-bird/main.b80991db3513a551.js": "2d0cdc22cbedbbf1e7f60864cdb45bcc49788b94",
+    "https://reinaldoagf.github.io/flappy-bird/index.html": "292a5cfef6d57e4d8222d2293493b3646570b37d",
+    "https://reinaldoagf.github.io/flappy-bird/main.88a510c8194298a9.js": "ac501407408330054c0bf2cddd92a21828a18ae0",
     "https://reinaldoagf.github.io/flappy-bird/manifest.webmanifest": "7fb8dacbbc343c6b81c2f8b9c0fc01d30177fd60",
     "https://reinaldoagf.github.io/flappy-bird/polyfills.bee6799d597c6fef.js": "ef6526e05ba24bdc5c288c49a9e9bb9a50ea71e4",
     "https://reinaldoagf.github.io/flappy-bird/runtime.40dc6dc47b8d87d6.js": "2b8d23a2ad9d7ed08f40279c408952fc0e98b2f2",
-    "https://reinaldoagf.github.io/flappy-bird/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+    "https://reinaldoagf.github.io/flappy-bird/styles.038c72120027e3ab.css": "1386342b77516c731c9ad1ed83ef5faa73016d33"
   },
   "navigationUrls": [
     {
