@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1700759340626,
+  "timestamp": 1700759920366,
   "index": "https://reinaldoagf.github.io/flappy-bird/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://reinaldoagf.github.io/flappy-bird/favicon.ico",
         "https://reinaldoagf.github.io/flappy-bird/index.html",
-        "https://reinaldoagf.github.io/flappy-bird/main.9f18ee8dd361653b.js",
+        "https://reinaldoagf.github.io/flappy-bird/main.b80991db3513a551.js",
         "https://reinaldoagf.github.io/flappy-bird/manifest.webmanifest",
         "https://reinaldoagf.github.io/flappy-bird/polyfills.bee6799d597c6fef.js",
         "https://reinaldoagf.github.io/flappy-bird/runtime.40dc6dc47b8d87d6.js",
@@ -52,9 +52,9 @@
     "https://reinaldoagf.github.io/flappy-bird/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "https://reinaldoagf.github.io/flappy-bird/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "https://reinaldoagf.github.io/flappy-bird/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://reinaldoagf.github.io/flappy-bird/index.html": "f6bb2f027d866cd42f570d6b4f9f12699c0b8916",
-    "https://reinaldoagf.github.io/flappy-bird/main.9f18ee8dd361653b.js": "6b1bd4c6acca7697142d51b3c9d3bff689492b65",
-    "https://reinaldoagf.github.io/flappy-bird/manifest.webmanifest": "0516a2e5742f9013189a4bbb960f1d881d73e93a",
+    "https://reinaldoagf.github.io/flappy-bird/index.html": "9dc22219293adaca746ef0a478b1b8e2e98c107a",
+    "https://reinaldoagf.github.io/flappy-bird/main.b80991db3513a551.js": "2d0cdc22cbedbbf1e7f60864cdb45bcc49788b94",
+    "https://reinaldoagf.github.io/flappy-bird/manifest.webmanifest": "7fb8dacbbc343c6b81c2f8b9c0fc01d30177fd60",
     "https://reinaldoagf.github.io/flappy-bird/polyfills.bee6799d597c6fef.js": "ef6526e05ba24bdc5c288c49a9e9bb9a50ea71e4",
     "https://reinaldoagf.github.io/flappy-bird/runtime.40dc6dc47b8d87d6.js": "2b8d23a2ad9d7ed08f40279c408952fc0e98b2f2",
     "https://reinaldoagf.github.io/flappy-bird/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
